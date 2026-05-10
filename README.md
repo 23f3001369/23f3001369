@@ -20,8 +20,6 @@ Building intelligent AI systems, LLM agents, and scalable full-stack application
 - AI/ML engineer focused on **LLMs, AI agents, and intelligent automation**
 - Building production-oriented **GenAI systems and full-stack applications**
 - Experience with **agentic AI workflows, RAG pipelines, NLP, and ML systems**
-- Secretary at :contentReference[oaicite:2]{index=2}
-- Pursuing :contentReference[oaicite:3]{index=3} BS Degree
 - Passionate about transforming AI prototypes into deployable products
 
 ---
