@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Sagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+works+in+the+real+world.;Data+Analyst+%26+ML+Engineer;Ex+AI+%26+ML+Intern+%40+Annam.ai+%C2%B7+IIT+Ropar;IIT+Madras+BS+%C2%B7+Data+Science+%26+Applications;LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning+%C2%B7+Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+works+in+the+real+world.;Data+Analyst+%26+ML+Engineer;Ex+AI+%26+ML+Intern+%40+Annam.ai+%C2%B7+IIT+Ropar;IIT+Madras+%C2%B7+Data+Science+%26+Applications;LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning+%C2%B7+Data+Analysis)](https://git.io/typing-svg)
 
 <br/>
 
@@ -110,7 +110,7 @@ Clinically-driven ML pipeline built to minimize false negatives in cancer detect
 
 `XGBoost` `SHAP` `RFE` `LASSO` `Streamlit` `scikit-learn`
 
-[![Research Paper](https://img.shields.io/badge/Research_Paper-Published-22d3ee?style=flat-square)](#)
+[![Research Paper](https://img.shields.io/badge/Research_Paper22d3ee?style=flat-square)](#)
 
 </td>
 <td width="50%" valign="top">
