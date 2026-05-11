@@ -234,7 +234,7 @@ Interactive Power BI dashboards analyzing EdTech course trends (learner engageme
 - 🤖 Exploring advanced RAG architectures and LLM agent frameworks  
 - 📊 Deepening expertise in MLOps and model deployment at scale
 - 🎓 B.S. Data Science & Applications — IIT Madras *(Expected 2027)*
-- 🏆 Secretary, Sportify Sports Society — IIT Madras BS
+- 🏆 Summer Intern, Vicharanashala Lab — IIT Ropar
 
 ---
 
