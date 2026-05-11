@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Sagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Sagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+works+in+the+real+world.;ML+Researcher+%40+IISER+Bhopal;AI+%26+ML+Intern+%40+Annam.ai+%C2%B7+IIT+Ropar;IIT+Madras+BS+%C2%B7+Data+Science+%26+Applications;LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning+%C2%B7+Full-Stack)](https://git.io/typing-svg)
