@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Sagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Sagar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=55&descSize=20&descColor=a5b4fc&stroke=6366f1&strokeWidth=1" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+works+in+the+real+world.;Data+Analyst+%26+ML+Engineer;Ex+AI+%26+ML+Intern+%40+Annam.ai+%C2%B7+IIT+Ropar;IIT+Madras+%C2%B7+Data+Science+%26+Applications;LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning+%C2%B7+Data+Analysis)](https://git.io/typing-svg)
@@ -29,10 +29,9 @@
 class AmanSagar:
     def __init__(self):
         self.name        = "Aman Sagar"
-        self.degree      = "B.S. Data Science & Applications — IIT Madras (GPA: 7.99)"
-        self.focus       = ["ML Research", "LLM Systems", "Full-Stack Development"]
-        self.currently   = "Secretary @ Sportify · IIT Madras BS"
-        self.open_to     = ["Research Roles", "ML Internships", "AI Collaborations"]
+        self.degree      = "B.achelor's in Data Science & Applications — IIT Madras (GPA: 7.99)"
+        self.focus       = ["ML Research", "LLM Systems", "Data Analysis"]
+        self.open_to     = ["Research Roles", "ML Internships", "AI Collaborations", "Data Analyst"]
 
     def highlights(self):
         return [
@@ -215,8 +214,7 @@ Interactive Power BI dashboards analyzing EdTech course trends (learner engageme
 | 🌱 | **Top 15** | Annam.ai Soil Classification Challenge Parts 1 & 2 | 2025 |
 | 🚀 | **Top 50 Qualified Team** | Zinnovatio 3.0 Hackathon *(KrishiSetu)* | 2025 |
 | ⚡ | **Shortlisted** | SuperHack 2025 *(KrishiSetu Prototype)* | 2025 |
-| 🎖️ | **Participant** | Smart India Hackathon *(VighnaSetu)* | 2024 |
-| ⌨️ | **500+ Problems Solved** | CodeChef — Competitive Programming | — |
+| 🎖️ | **Participant** | Smart India Hackathon *(VighnaSetu)* | 2025 |
 
 ---
 
@@ -244,6 +242,6 @@ Interactive Power BI dashboards analyzing EdTech course trends (learner engageme
 
 **[Portfolio](https://amansagar.netlify.app) · [LinkedIn](https://linkedin.com/in/amansagar01) · [Email](mailto:amanankitsagar@gmail.com) · [Kaggle](https://kaggle.com/amnsgr)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false&fontColor=22d3ee" width="100%"/>
 
 </div>
