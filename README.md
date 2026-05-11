@@ -191,12 +191,12 @@ Interactive Power BI dashboards analyzing EdTech course trends (learner engageme
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=23f3001369&show_icons=true&theme=tokyonight&bg_color=020917&title_color=22d3ee&icon_color=6366f1&text_color=94a3b8&border_color=1e293b&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001369&layout=compact&theme=tokyonight&bg_color=020917&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&langs_count=8&hide=jupyter%20notebook" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=23f3001369&show_icons=true&theme=tokyonight&bg_color=020917&title_color=22d3ee&icon_color=6366f1&text_color=94a3b8&border_color=1e293b&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001369&layout=compact&theme=tokyonight&bg_color=020917&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=23f3001369&theme=tokyonight&background=020917&ring=22d3ee&fire=6366f1&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=475569&border=1e293b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
+<img src="https://streak-stats.demolab.com/?user=23f3001369&theme=tokyonight&background=020917&ring=22d3ee&fire=6366f1&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=475569&border=1e293b&sideNums=e2e8f0&currStreakNum=e2e8f0" />
 
 <br/>
 
