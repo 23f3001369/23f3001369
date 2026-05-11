@@ -29,10 +29,9 @@
 class AmanSagar:
     def __init__(self):
         self.name        = "Aman Sagar"
-        self.degree      = "B.S. Data Science & Applications — IIT Madras (GPA: 7.99)"
-        self.focus       = ["ML Research", "LLM Systems", "Full-Stack Development"]
-        self.currently   = "Secretary @ Sportify · IIT Madras BS"
-        self.open_to     = ["Research Roles", "ML Internships", "AI Collaborations"]
+        self.degree      = "Bachelor's in Data Science & Applications — IIT Madras (GPA: 7.99)"
+        self.focus       = ["ML Research", "LLM Systems", "Data Analysis", "AI"]
+        self.open_to     = ["Research Roles", "ML Internships", "AI Collaborations", "Data Analysis"]
 
     def highlights(self):
         return [
