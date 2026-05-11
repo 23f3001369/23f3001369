@@ -110,7 +110,8 @@ Clinically-driven ML pipeline built to minimize false negatives in cancer detect
 
 `XGBoost` `SHAP` `RFE` `LASSO` `Streamlit` `scikit-learn`
 
-[![Research Paper](https://img.shields.io/badge/Research_Paper22d3ee?style=flat-square)](#)
+[![Research Paper](https://img.shields.io/badge/Research_Paper-In_Progress-f59e0b?style=flat-square&logo=readme&logoColor=white)](#)
+[![Clinical App](https://img.shields.io/badge/Streamlit_App-In_Development-22d3ee?style=flat-square&logo=streamlit&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
