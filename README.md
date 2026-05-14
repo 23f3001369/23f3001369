@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Sagar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=55&descSize=20&descColor=a5b4fc&stroke=6366f1&strokeWidth=1" width="100%"/> -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Sagar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Data%20Analyst%20%7C%20Developer&descAlignY=55&descSize=20&descColor=a5b4fc&stroke=6366f1&strokeWidth=1" width="100%"/>
 
 <!-- Typing animation -->
